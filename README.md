@@ -35,11 +35,11 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/ZakariaAK94/Assembly-Game--With-React.git
+   git clone https://github.com/ZakariaAK94/Assembly_Game.git
    ```
 2. **Navigate to directory:**
    ```
-   cd Assembly-Game--With-React
+   cd Assembly_Game
    ```
 
 3. **Install dependencies:**
